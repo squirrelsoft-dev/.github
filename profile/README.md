@@ -22,6 +22,6 @@ Install our marketplace in Claude Code:
 
 ## 📦 Coming Soon
 
-- Documentation Fetcher - Cached, versioned library docs
+- Cloudflare Patterns - Workers, Pages, D1, R2, KV, etc. 
 - Supabase Patterns - Auth, RLS, and repository patterns  
 - Component Registry - shadcn-style reusable components
