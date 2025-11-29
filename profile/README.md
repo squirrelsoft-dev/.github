@@ -4,6 +4,7 @@ Building reusable solutions for recurring development challenges.
 
 ## 🔧 Tools & Plugins
 
+- **[Infinite Memory](https://github.com/squirrelsoft-dev/infinite-memory)** - Semantic memory system for Claude Code that enables persistent, project-aware context retention through vector embeddings and intelligent retrieval
 - **[Claude Builder](https://github.com/squirrelsoft-dev/claude-builder)** - Meta-tool for creating Claude Code plugins, skills, and agents
 - **[Doc Fetcher](https://github.com/squirrelsoft-dev/doc-fetcher)** - Fetch, cache, and version documentation from web sources to provide accurate, version-specific context for AI coding agents
 - **[Marketplace](https://github.com/squirrelsoft-dev/squirrelsoft-marketplace)** - Curated collection of development tools
